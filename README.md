@@ -1,4 +1,4 @@
 # blog
-Adding temp content
-Another line of bogus content
-And yet some more bogus content
+Adding temp content<br>
+Another line of bogus content<br>
+And yet some more bogus content<br>
