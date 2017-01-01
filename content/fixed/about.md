@@ -12,4 +12,4 @@ Solange's husband and Josue's dad.
 > When you don't want to do something, any excuse will do. 
 
 
-<img src="//placehold.it/300x300" class="profile">
+<img src="static/img/logo.png" class="profile">
