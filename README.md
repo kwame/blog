@@ -1,6 +1,7 @@
 # README
 
-Por algún tiempo estuve debatiendo con la idea de tener un nuevo software para manejar mi blog. Desde ya hace bastantes años he utilizado <a href="https://wordpress.org/">Wordpress</a>, pero sus contantes problemas de seguridad, parches, actualizaciones y necesidad de continuo mantenimiento me terminaron de alejar de este softare. <br>
+Por algún tiempo estuve debatiendo con la idea de tener un nuevo software para manejar mi blog. Desde ya hace bastantes años he utilizado <a href="https://wordpress.org/">Wordpress</a>, pero sus contantes problemas de seguridad, parches, actualizaciones y necesidad de continuo mantenimiento me terminaron de alejar de este software. <br> <br>
+
 Para su reemplazo, me encontré con **<a href=" https://gohugo.io/">HUGO</a>**, el cuál, como dice su descripción, es una nueva idea para hacer simple la creación de sitios web. **HUGO** es flexible y puede ser utilizado con muchos formatos, es ideal para blogs, documentos, portafolios y mucho más.
 
 ---
