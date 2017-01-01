@@ -1289,6 +1289,50 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
+      <title>año nuevo blog nuevo</title>
+      <link>http://informatux.net/blog/a%C3%B1o-nuevo-blog-nuevo/</link>
+      <pubDate>Sun, 01 Jan 2017 09:29:53 -0600</pubDate>
+      
+      <guid>http://informatux.net/blog/a%C3%B1o-nuevo-blog-nuevo/</guid>
+      <description>
+
+&lt;p&gt;Por algún tiempo estuve debatiendo con la idea de tener un nuevo software para manejar mi blog. Desde ya hace bastantes años he utilizado &lt;a href=&#34;https://wordpress.org/&#34;&gt;Wordpress&lt;/a&gt;, pero sus contantes problemas de seguridad, parches, actualizaciones y necesidad de continuo mantenimiento me terminaron de alejar de este softare. &lt;br&gt;
+Para su reemplazo, me encontré con &lt;strong&gt;&lt;a href=&#34; https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;&lt;/strong&gt;, el cuál, como dice su descripción, es una nueva idea para hacer simple la creación de sitios web. &lt;strong&gt;HUGO&lt;/strong&gt; es flexible y puede ser utilizado con muchos formatos, es ideal para blogs, documentos, portafolios y mucho más.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Me gusta la manera en que &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt; le regresa a la terminal la satisfacción de escribir y mantener un blog sin la necesidad de estar logeado en un &amp;ldquo;panel de control&amp;rdquo;  via web. Para los que estámos acostumbrados a pasar la mayor parte de nuestro día en la terminal, es totalmente grandioso.&lt;/p&gt;
+
+&lt;p&gt;Si tu seguías mi &lt;a href=&#34;http://kwame.informatux.net/&#34;&gt;anterior blog&lt;/a&gt; te informo que en cuanto tenga un workflow adecuado aquí en la página principal de &lt;a href=&#34;http://informatux.net&#34;&gt;Informatux.Net&lt;/a&gt; voy a dar de baja mi antiguo blog.&lt;/p&gt;
+
+&lt;h2 id=&#34;estas-son-unas-de-las-características-del-tema-de-hpstr-que-estoy-utilizando-junto-con-hugo-https-gohugo-io&#34;&gt;Estas son unas de las características del tema de HPSTR que estoy utilizando junto con &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plantillas responsivas para cada post, página e index.html. Su diseño es amigable con dispositivos móviles, tables y desktops/laptops.&lt;/li&gt;
+&lt;li&gt;Se adapta a browsers viejos y desactualizados, incluso con el horrible IE.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Menú interactivo que se mira bastante chidin.&lt;/li&gt;
+&lt;li&gt;Soporte para imágenes de background.&lt;/li&gt;
+&lt;li&gt;Sencilla y limpia estructura para permalink&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Soporte para &lt;a href=&#34;https://developers.facebook.com/docs/opengraph/&#34;&gt;Open Graph&lt;/a&gt; y &lt;a href=&#34;https://dev.twitter.com/docs/cards&#34;&gt;Twitter Cards&lt;/a&gt; para mejor experiencia de manejar las redes sociales.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;No page found with path or logical name &#34;posts/code-highlighting-post.md&#34;.
+&#34;&gt;Syntax highlighting&lt;/a&gt; hojas de estilo para que el código se mire más pro.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;No page found with path or logical name &#34;theme-setup.md&#34;.
+&#34; class=&#34;btn btn-info&#34;&gt;Configurar HPSTR&lt;/a&gt; &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme&#34; class=&#34;btn btn-success&#34;&gt;Descargar HPSTR&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Ejemplo: &lt;em&gt;domain.com/category-name/post-title&lt;/em&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://informatux.net/about/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
