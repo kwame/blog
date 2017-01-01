@@ -1,0 +1,34 @@
+baseurl = "http://informatux.net/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Kwame"
+title = "Kwame's blog"
+pygmentsuseclasses = true
+disqusshortname = "kwame-1"
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+author = "Kwame"
+cachebuster = true
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Kwame's blog"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+github = "https://github.com/kwame"
+email = "kwame@informatux.net"
+linkedin = "https://www.linkedin.com/in/dan-bahena-1750359"
+twitter = "https://twitter.com/informatux"
+
+#adding a comment line
