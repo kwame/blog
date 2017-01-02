@@ -5,8 +5,33 @@ title = "Projects"
 
 +++
 
-The Hitchhiker's Guide to the Galaxy is a comedy science fiction series created by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams). Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a "trilogy" of five books published between 1979 and 1992, a sixth novel penned by [Eoin Colfer](https://en.wikipedia.org/wiki/Eoin_Colfer) in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an "official version" of The Hitchhiker's Guide to the Galaxy, as they include text from the first novel. 
+One of the main reasons that pushed me to do a entire blog remake is to add more tutorials and how-to's to it.
+The way a sysadmin works nowadays is totally different from what it was just a couple of years ago, needless to say, it has changed 100% of what it was just 9-10 years ago.
+During the last [FSL](https://fsl.mx/2016/) I gave a [talk](https://fsl.mx/2016/programa) titled "From hardware to the cloud, the evolution of a sysadmin).
 
-### Movie
+So, my intention is to add a list of tutorials, how-to's and documentation on how to use the latest technologies used by SysAdmins, DevOps and SRE's.
 
-A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.
+
+### Configuration management 
+
+* Puppet
+* Chef
+* Ansible
+
+### Logging tools
+
+* Grep, Awk (the old way)
+* Logstash
+* Elasticsearch
+* Kibana
+* Graphite and Collectd
+
+### Programming and scripting 
+
+* Bash
+* Python
+*Ruby
+
+So, keep an eye on updates on this page.
+
+
