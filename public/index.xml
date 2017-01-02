@@ -1289,17 +1289,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
-      <title>new fixed page</title>
-      <link>http://informatux.net/new-fixed-page/</link>
-      <pubDate>Sun, 01 Jan 2017 18:01:58 -0600</pubDate>
-      
-      <guid>http://informatux.net/new-fixed-page/</guid>
-      <description>&lt;p&gt;This is the content of a new fixed page.
-Where will the page will appear?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>año nuevo blog nuevo</title>
       <link>http://informatux.net/blog/a%C3%B1o-nuevo-blog-nuevo/</link>
       <pubDate>Sun, 01 Jan 2017 09:38:00 -0600</pubDate>
@@ -1358,16 +1347,6 @@ Solange&amp;rsquo;s husband and Josue&amp;rsquo;s dad.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/profile.jpg&#34; class=&#34;profile&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>año nuevo</title>
-      <link>http://informatux.net/post/a%C3%B1o-nuevo/</link>
-      <pubDate>Sat, 31 Dec 2016 10:51:40 -0600</pubDate>
-      
-      <guid>http://informatux.net/post/a%C3%B1o-nuevo/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m an Open Source advocate, Red Hat Certified Engineer, Linux SysAdmin, amateur photographer, n00b runner, piano and music enthusiast. I&amp;rsquo;m currently working as a Systems Engineer for Pythian. Solange&amp;rsquo;s husband and Josue&amp;rsquo;s dad.&lt;/p&gt;
 </description>
     </item>
     
