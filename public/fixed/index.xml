@@ -6,8 +6,19 @@
     <description>Recent content in Fixed on Kwame&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 18:01:58 -0600</lastBuildDate>
     <atom:link href="http://informatux.net/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new fixed page</title>
+      <link>http://informatux.net/new-fixed-page/</link>
+      <pubDate>Sun, 01 Jan 2017 18:01:58 -0600</pubDate>
+      
+      <guid>http://informatux.net/new-fixed-page/</guid>
+      <description>&lt;p&gt;This is the content of a new fixed page.
+Where will the page will appear?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
