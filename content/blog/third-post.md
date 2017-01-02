@@ -4,5 +4,5 @@ title = "third post"
 
 +++
 
-And this is the 3rd post
+And this is the 3rd post<br>
 Let's see where this one ends up
