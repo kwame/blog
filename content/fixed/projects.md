@@ -32,6 +32,12 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Python
 * Ruby
 
+### Raspberry Pi
+
+* Scratch
+* Misc sensors
+* Pi-Minecraft
+
 So, keep an eye on updates on this page.
 
 
