@@ -11,6 +11,7 @@ title = "Kwame's blog"
 pygmentsuseclasses = true
 disqusshortname = "kwame-1"
 pluralizelisttitles = false
+googleAnalytics = "UA-1406192-3"
 
 [permalinks]
 fixed = ":title/"
