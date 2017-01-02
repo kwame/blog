@@ -1,6 +1,6 @@
 +++
 date = "2017-01-01T09:38:00-06:00"
-title = "año nuevo blog nuevo"
+title = "Año nuevo, blog nuevo"
 
 +++
 
