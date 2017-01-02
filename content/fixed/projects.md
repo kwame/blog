@@ -30,7 +30,7 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 
 * Bash
 * Python
-*Ruby
+* Ruby
 
 So, keep an eye on updates on this page.
 
