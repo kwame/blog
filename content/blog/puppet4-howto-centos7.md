@@ -38,21 +38,22 @@ To follow this howto, you will need at least 2 VMs with root access to both of t
 
 ## Example hosts setup
 
- * puppet.yourdomain.com		  -  2.5 Gb RAM, 6 Gigs hard drive
- * p-client.yourdomain.com	  -  1 Gb RAM, 6 Gigs hard drive
+Hostname|RAM|HD
+|------|------|-------|
+|puppet.yourdomain.com|2.5 Gb|6 Gb| 
+|p-client.yourdomain.com|1 Gb|6Gb| 
+
+Puppet agent muy be installed on all hosts (including the Puppet server). 
+
+## Install and configure Puppet Server
+
+After you've created and updated the VM that will host the Puppet server, you will need to set the hostname to "puppet". As a note on Puppet Server, the initial configuration is set to use 2 Gb of RAM. 
+
+    If you use a different name for the Puppet server, you'll need to adjust some configuration files, so, for the time being, please make sure to set the hostname to puppet.yourdomain.com. Otherwise, you'll get this error: *Error: Could not request certificate: The certificate retrieved from the master does not match the agent's private key*. Modifying the Puppet server FQDN configuration is beyond the scope of this howto.
 
 
-test|test 2|test 3
-|------|--------|--------|
-| some more text| another text | and last one| 
-|another row|rogue one|rogue 3| 
+Enable the oficial Puppet Labs collection repository:
+   $ rpm -ivh https://yum.puppetlabs.com/puppetlabs-release-pc1-el-7.noarch.rpm
 
-
-This is another line
-
-
-Name | Lunch order | Spicy      | Owes
-------- | ---------------- | ---------- | ---------:
-Joan  | saag paneer | medium | $11
-Sally  | vindaloo        | mild       | $14
-Erin   | lamb madras | HOT      | $5
+Install the puppetserver package:
+   $ yum -y install puppetserver
