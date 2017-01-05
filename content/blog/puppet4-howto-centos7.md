@@ -42,3 +42,17 @@ To follow this howto, you will need at least 2 VMs with root access to both of t
  * p-client.yourdomain.com	  -  1 Gb RAM, 6 Gigs hard drive
 
 
+test|test 2|test 3
+|------|--------|--------|
+| some more text| another text | and last one| 
+|another row|rogue one|rogue 3| 
+
+
+This is another line
+
+
+Name | Lunch order | Spicy      | Owes
+------- | ---------------- | ---------- | ---------:
+Joan  | saag paneer | medium | $11
+Sally  | vindaloo        | mild       | $14
+Erin   | lamb madras | HOT      | $5
