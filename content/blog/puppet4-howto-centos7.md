@@ -17,6 +17,8 @@ categories = [
 menu = "main" 
 +++
 
+## Please take notice that this blog post is work in progress 
+
 ## What is Puppet?
 
 Puppet is a tool for configuration management created by [Puppet Labs](https://puppet.com/) that enables system administrator to automate provisioning, configuration and management of a server infrastructure. A system administrator will always want to cut down on time spent repeating basic tasks, like installing packages, modifying configuration files, creating user account et al. Puppet can help with these kind of tasks. 
