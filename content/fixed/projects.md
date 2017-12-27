@@ -24,6 +24,7 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Terraform
 * Packer
 * Vagrant
+* AWS
 
 ### Logging tools
 
