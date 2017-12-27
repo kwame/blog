@@ -14,9 +14,16 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 
 ### Configuration management 
 
+* Ansible
 * Puppet
 * Chef
-* Ansible
+
+### DevOps 
+
+* Docker
+* Terraform
+* Packer
+* Vagrant
 
 ### Logging tools
 
