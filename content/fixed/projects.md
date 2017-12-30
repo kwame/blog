@@ -25,6 +25,7 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Packer
 * Vagrant
 * AWS
+* Kubernetes
 
 ### Logging tools
 
