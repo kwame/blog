@@ -21,11 +21,13 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 ### DevOps 
 
 * Docker
+* Kubernetes
 * Terraform
 * Packer
 * Vagrant
 * AWS
 * Kubernetes
+* <a href="https://getkong.org/">Kong </a>
 
 ### Logging tools
 
@@ -37,7 +39,7 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 
 ### Programming and scripting 
 
-* Bash
+* Bash - an intro to bash scripting 
 * Python
 * Ruby
 
