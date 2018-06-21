@@ -9,4 +9,4 @@ Me gusta la manera en que [HUGO](https://gohugo.io/) le regresa a la terminal la
 Si tu seguías mi [anterior blog](http://kwame.informatux.net/) te informo que en cuanto tenga un workflow adecuado aquí en la página principal de [Informatux.Net](http://informatux.net) voy a dar de baja mi antiguo blog.
 
 # Adding empty line
-
+# Adding another empty line
