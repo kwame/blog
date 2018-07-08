@@ -12,5 +12,8 @@ Para este 2018 esta es una lista de los temas sobre los cuáles voy a estar gene
 * aws 
 * IaC
 * terraform
+* google cloud
+* automated configuration management 
+* containers
 
 ¡Estamos en contacto!
