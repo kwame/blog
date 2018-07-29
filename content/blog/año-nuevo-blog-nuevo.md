@@ -20,9 +20,5 @@ Si tu seguías mi [anterior blog](http://kwame.informatux.net/) te informo que e
 * Soporte para imágenes de background.
 * Sencilla y limpia estructura para permalink[^1].
 * Soporte para [Open Graph](https://developers.facebook.com/docs/opengraph/) y [Twitter Cards](https://dev.twitter.com/docs/cards) para mejor experiencia de manejar las redes sociales.
-* [Syntax highlighting]({{< relref "posts/code-highlighting-post.md" >}}) hojas de estilo para que el código se mire más pro.
-
-<div markdown="0"><a href="{{< relref "theme-setup.md" >}}" class="btn btn-info">Configurar HPSTR</a> <a href="https://github.com/dldx/hpstr-hugo-theme" class="btn btn-success">Descargar HPSTR</a></div>
-
 [^1]: Ejemplo: *domain.com/category-name/post-title*
 
