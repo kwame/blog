@@ -7,18 +7,18 @@ title = "Projects"
 
 One of the main reasons that pushed me to do a entire blog remake is to add more tutorials and how-to's to it.
 The way a sysadmin works nowadays is totally different from what it was just a couple of years ago, needless to say, it has changed 100% of what it was just 9-10 years ago.
-During the last [FSL](https://fsl.mx/2016/) I gave a [talk](https://fsl.mx/2016/programa) titled "From hardware to the cloud, the evolution of a sysadmin).
+During the last [FSL](https://www.facebook.com/fslmx/) I gave a [talk](https://fsl.mx/2016/programa) titled "From hardware to the cloud, the evolution of a sysadmin).
 
 So, my intention is to add a list of tutorials, how-to's and documentation on how to use the latest technologies used by SysAdmins, DevOps and SRE's.
 
 
-### Configuration management 
+### Configuration management
 
 * Ansible
 * Puppet
 * Chef
 
-### DevOps 
+### DevOps
 
 * Docker
 * Kubernetes
@@ -27,7 +27,8 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Vagrant
 * AWS
 * Kubernetes
-* <a href="https://getkong.org/">Kong </a>
+* [Kong](https://getkong.org/)
+* Git
 
 ### Logging tools
 
@@ -37,9 +38,9 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Kibana
 * Graphite and Collectd
 
-### Programming and scripting 
+### Programming and scripting
 
-* Bash - an intro to bash scripting 
+* Bash - an intro to bash scripting
 * Python
 * Ruby
 
@@ -50,5 +51,3 @@ So, my intention is to add a list of tutorials, how-to's and documentation on ho
 * Pi-Minecraft
 
 So, keep an eye on updates on this page.
-
-
