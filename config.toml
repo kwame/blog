@@ -18,7 +18,7 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Kwame's blog"
+description = "Example blog"
 copyright = "Kwame Bahena © 2018 Informatux.net"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.jpg"
