@@ -2,7 +2,7 @@
 title = 'Ansible First Steps'
 date = 2019-12-11T15:25:03-06:00
 draft = true
-tags = ["ansible, devops, sre, config management"]
+tags = ["ansible" "devops, sre, config management"]
 description = "Desc"
 +++
 
