@@ -1,5 +1,6 @@
 baseurl = "http://informatux.net/"
 theme = "cocoa-eh"
+#theme = "base16"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
