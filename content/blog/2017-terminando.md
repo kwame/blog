@@ -16,4 +16,4 @@ Para este 2018 esta es una lista de los temas sobre los cuáles voy a estar gene
 * automated configuration management 
 * containers
 
-¡Estamos en contacto!
+¡Estámos en contacto!
