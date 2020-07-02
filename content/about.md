@@ -13,3 +13,5 @@ Solange's husband and Josue's dad.
 
 
 <img src="img/profile.jpg" class="profile">
+
+![image alt text](img/profile.jpg)
