@@ -3,6 +3,7 @@ title = 'De regreso al blog'
 date = 2020-07-01T21:57:03-05:00
 draft = false
 tags = ["tags"]
+#coverImage = img/profile.jpg
 description = "Regresando al blog"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards

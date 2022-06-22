@@ -1,2 +1,4 @@
 /public
 config.toml.working
+.DS_Store
+.hugo_build.lock
