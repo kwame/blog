@@ -1,8 +1,8 @@
 ---
 title: "Nuevo tema para el blog y regresando"
-thumbnailImagePosition: bottom
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+thumbnailImagePosition: top
+thumbnailImage: img/qro.jpg
+coverImage: img/qro.jpg
 metaAlignment: center
 coverMeta: out
 date: 2022-06-22
