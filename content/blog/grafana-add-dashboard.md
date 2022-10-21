@@ -21,21 +21,21 @@ We will be using the dashboard listed [here](https://grafana.com/grafana/dashboa
 First you need to go to 
 * Dashboards 
 ** Browse
-![Grafana Dashboard 1](img/grafana-dashboard1.jpg)
+![Grafana Dashboard 1](static/img/grafana-dashboard1.jpg)
 
 In the following screen select 
 * New
 ** Import 
-![Grafana Dashboard 2](img/grafana-dashboard2.jpg)
+![Grafana Dashboard 2](static/img/grafana-dashboard2.jpg)
 
 In the "Import via grafana.com" field enter the ID of the dashboard and select "Load" 
-![Grafana Dashboard](img/grafana-dashboard3.jpg)
+![Grafana Dashboard](static/img/grafana-dashboard3.jpg)
 
 
 In the following screen select the InlufxDB database name:
-![Grafana Dashboard](img/grafana-dashboard4.jpg)
+![Grafana Dashboard](static/img/grafana-dashboard4.jpg)
 
 
 And finally you will have in the dashboards list the recently imported dashboard. 
-![Grafana Dashboard](img/grafana-dashboard5.jpg)
+![Grafana Dashboard](static/img/grafana-dashboard5.jpg)
 
