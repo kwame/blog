@@ -45,7 +45,7 @@ canonifyurls = true
 # ------
 [author]
   name = "Kwame Bahena"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "tail -f /var/log/kwame.log"
   job = "DevOps"
   location = "Mx"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -103,7 +103,7 @@ canonifyurls = true
   identifier = "stackoverflow"
   name = "Stack Overflow"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://stackoverflow.com/users/16268753/kwame"
 
 [[menu.misc]]
   weight = 1
@@ -119,7 +119,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Kwame's blog - powered by Hugo"
+  description = "Kwame's blog"
 
   # ------------------
   # Syntax highlighter
@@ -301,7 +301,6 @@ canonifyurls = true
     name = "Twitter"
     icon = "fab fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
-
 
 #  [[params.sharingOptions]]
 #    name = "Whatsapp"
