@@ -9,7 +9,9 @@ coverMeta: out
 categories:
 - DevOps
 tags:
-- cover image
+- devops
+- linux
+- open source
 ---
 
 ## How to add a Grafana pre-built dashboard 
@@ -19,23 +21,23 @@ These are the steps that you'll need to follow to install a pre-built Grafana da
 We will be using the dashboard listed [here](https://grafana.com/grafana/dashboards/928-telegraf-system-dashboard/)
 
 First you need to go to 
-* Dashboards 
-** Browse
-![Grafana Dashboard 1](static/img/grafana-dashboard1.jpg)
+- Dashboards 
+  - Browse
+![This is an image](http://informatux.net/img/grafana-dashboard1.png)
 
 In the following screen select 
-* New
-** Import 
-![Grafana Dashboard 2](static/img/grafana-dashboard2.jpg)
+- New
+  - Import 
+![This is an image](http://informatux.net/img/grafana-dashboard2.png)
 
 In the "Import via grafana.com" field enter the ID of the dashboard and select "Load" 
-![Grafana Dashboard](static/img/grafana-dashboard3.jpg)
+![This is an image](http://informatux.net/img/grafana-dashboard3.png)
 
 
 In the following screen select the InlufxDB database name:
-![Grafana Dashboard](static/img/grafana-dashboard4.jpg)
+![This is an image](http://informatux.net/img/grafana-dashboard4.png)
 
 
 And finally you will have in the dashboards list the recently imported dashboard. 
-![Grafana Dashboard](static/img/grafana-dashboard5.jpg)
+![This is an image](http://informatux.net/img/grafana-dashboard5.png)
 

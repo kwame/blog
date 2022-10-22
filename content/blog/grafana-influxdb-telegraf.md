@@ -8,9 +8,10 @@ metaAlignment: center
 coverMeta: out
 categories:
 - DevOps
-- features
 tags:
-- cover image
+- devops
+- linux
+- open source
 ---
 
 Grafana - InfluxDB - Telegraf Linux Monitoring howto
