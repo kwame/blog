@@ -1,7 +1,7 @@
 ---
 title: "Grafana Influxdb Telegraf"
 date: 2022-10-17T21:26:23-05:00
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: img/grafana1.png
 coverImage: img/grafana2.png
 metaAlignment: center

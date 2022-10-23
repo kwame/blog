@@ -2,8 +2,8 @@
 title: "How to add a Grafana Telegraf InfluxDB dashboard"
 date: 2022-10-21T00:58:45-05:00
 thumbnailImagePosition: top
-thumbnailImage: img/grafana1.png
-coverImage: img/grafana2.png
+thumbnailImage: img/dashboard-head.png
+coverImage: img/dashboard.png
 metaAlignment: center
 coverMeta: out
 categories:
