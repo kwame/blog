@@ -4,7 +4,7 @@ date: 2022-10-21T00:58:45-05:00
 thumbnailImagePosition: top
 thumbnailImage: img/dashboard-head.png
 coverImage: img/dashboard.png
-metaAlignment: center
+metaAlignment: left
 coverMeta: out
 categories:
 - DevOps
