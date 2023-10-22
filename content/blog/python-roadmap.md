@@ -1,5 +1,7 @@
 ---
 title: "Python Roadmap"
+thumbnailImagePosition: left
+thumbnailImage: img/python-logo.png
 date: 2023-02-21T21:32:16-06:00
 draft: false
 ---

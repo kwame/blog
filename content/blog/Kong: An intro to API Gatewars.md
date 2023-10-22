@@ -15,7 +15,7 @@ categories = [
     "linux",
 ]
 
-menu = "main" 
+#menu = "main" 
 +++
 
 ## Please take notice that this blog post is work in progress 

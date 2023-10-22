@@ -3,3 +3,4 @@ config.toml.working
 config.toml
 .DS_Store
 .hugo_build.lock
+.gitmodules
