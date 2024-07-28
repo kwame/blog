@@ -1,7 +1,7 @@
 +++
 title = 'How to set a default region zone in Gcloud'
 date = 2018-10-19T21:51:16-05:00
-draft = true
+draft = false
 tags = ["tags"]
 description = "Desc"
 
