@@ -2,6 +2,12 @@
 title: "Skill Matrix"
 date: 2024-07-27T01:03:02-06:00
 draft: False
+tags:
+- tag work
+- linux
+- DevOps 
+thumbnailImagePosition: left
+thumbnailImage: img/python-logo.png
 ---
 One draw back of being in the IT industry for so many years is the amount of technologies I've used in all past projects, this complicates things even more when I'm on a interview and I'm asked one of the most nonesense questions, whish is:
 - How many years of experience do you have in ____ technology?
