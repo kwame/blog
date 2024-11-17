@@ -9,6 +9,7 @@ tags:
 - DevOps
 thumbnailImagePosition: left
 thumbnailImage: img/fargate.png
+coverImage: img/AWSCloud.png
 ---
 
 Why Use Amazon ECS and Fargate to Deploy Your Node.js Application?
