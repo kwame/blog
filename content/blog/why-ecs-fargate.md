@@ -2,6 +2,13 @@
 title: "Why Ecs Fargate"
 date: 2024-11-17T00:10:01-06:00
 draft: false
+tags:
+- work
+- aws
+- cloud
+- DevOps
+thumbnailImagePosition: left
+thumbnailImage: img/fargate.png
 ---
 
 Why Use Amazon ECS and Fargate to Deploy Your Node.js Application?

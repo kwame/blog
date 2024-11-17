@@ -3,7 +3,7 @@ title: "Skill Matrix"
 date: 2024-07-27T01:03:02-06:00
 draft: False
 tags:
-- tag work
+- work
 - linux
 - DevOps 
 thumbnailImagePosition: left
