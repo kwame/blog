@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "tail -f /var/log/kwame"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "disqus_R78m3TPELl"
-googleAnalytics = "UA-1406192-3"
+googleAnalytics = "G-H7H8GV69T0"
 paginate = 7
 canonifyurls = true
 
