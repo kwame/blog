@@ -1,7 +1,7 @@
 ---
 title: "Termina 2025"
 date: 2025-12-29T20:29:21-06:00
-draft: False
+draft: false
 ---
 
 2025 fue un año de inflexión, fue un año que me puso a prueba en muchas áreas de mi vida. 
