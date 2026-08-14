@@ -19,7 +19,7 @@ Hay más tiempo que vida es un dicho que intenta (y en su mayoría de veces frac
 Para mi, en la mayoría de las ocasiones las tareas no me quitan el sueño ni la tranquilidad, pero el tiempo tiene una virtud, recordarte que aún cuando el es infinito, mi capacidad de acapararlo y utilizarlo es finita. 
 ¿Porqué nos encontramos y sabemos incapaces de usar cantidades limitadas de un recurso ilimitado e infinito? 
 
-Esta es una de las grandes paradojas de la vida, ¿porqué la vida se bura de nosotros al ver como deseamos algo inifinto y sólo podemos utilizar una fracción ridiculamente pequeña de este precioso recurso?
+Esta es una de las grandes paradojas de la vida, ¿porqué la vida se burla de nosotros al ver como deseamos algo inifinto y sólo podemos utilizar una fracción ridiculamente pequeña de este precioso recurso?
 Puedo suponer que la promesa de "vivir una eternidad" resulta muy atractiva cuando estamos aferrados a pasar tiempo con la gente que se ha convertido en nuestra vida. 
 
 Espero que en esta vida aprenda a disfrutar de la compañía de los míos y que sepa sobrellevar todas las cargas que vienen al ser esposo y padre. 

@@ -4,3 +4,5 @@ config.toml
 .DS_Store
 .gitmodules
 .hugo_build.lock
+go.mod
+go.sum
