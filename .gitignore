@@ -6,3 +6,4 @@ config.toml
 .hugo_build.lock
 go.mod
 go.sum
+hugo.toml
